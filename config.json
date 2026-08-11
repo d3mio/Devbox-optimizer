@@ -1,0 +1,11 @@
+
+{
+    "dev_environments": {
+        "env1": {
+            "description": "Dev environment 1"
+        },
+        "env2": {
+            "description": "Dev environment 2"
+        }
+    }
+}
